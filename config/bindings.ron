@@ -1,0 +1,7 @@
+(
+	axes: {
+		"top_paddle": Emulated(pos: Key(D), neg: Key(Q)),
+		"bottom_paddle": Emulated(pos: Key(Right), neg: Key(Left)),
+	},
+	actions: {},
+)
